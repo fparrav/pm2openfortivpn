@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "console-stamp": "^0.2.9",
-    "find-process": "^1.4.2",
+    "find-process": "^1.4.5",
     "node-run-cmd": "^1.0.1"
   }
 }
