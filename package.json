@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "console-stamp": "^3.0.6",
+    "console-stamp": "^3.1.0",
     "find-process": "^1.4.2",
     "node-run-cmd": "^1.0.1"
   }
